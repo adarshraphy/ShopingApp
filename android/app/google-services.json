@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167259198339",
+    "project_id": "shopista-0001",
+    "storage_bucket": "shopista-0001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167259198339:android:b72c92f5f49edd702c1cb6",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167259198339-tq5dkc75uhrglcimeh2d0vk7q7l5812e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxKBUkjAWrz1JnKFYhe3KNVAbmwPxkZaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167259198339-tq5dkc75uhrglcimeh2d0vk7q7l5812e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
